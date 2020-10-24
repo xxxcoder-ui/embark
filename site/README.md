@@ -1,9 +1,3 @@
-# Embark Official Website
-
-The website for Embark.
-
-## Getting started
-
 Install dependencies:
 
 ```bash
